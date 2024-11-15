@@ -1,4 +1,4 @@
-# Directory Structure Printer 🌳
+# Directory Structure Printer 
 
 A Rust command-line tool that prints a visual tree representation of directory structures, similar to the `tree` command.
 
